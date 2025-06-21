@@ -1,10 +1,10 @@
 # REST-API-CLIENT
-*COMPANY*: CODTECH IT SOLUTIONS
-*NAME*: KANIMOZHI L
-*INTERN ID*: CT04DG1330
-*DOMAIN*: JAVA PROGRAMMING
-*DURATION*: 4 WEEKS
-*MENTOR*:NEELA SANTHOSH
+* COMPANY*: CODTECH IT SOLUTIONS
+* NAME*: KANIMOZHI L
+* INTERN ID*: CT04DG1330
+* DOMAIN*: JAVA PROGRAMMING
+* DURATION*: 4 WEEKS
+* MENTOR*:NEELA SANTHOSH
 ** DESCRIPTION*:
             In this task, I learned how to integrate a real-time weather API into a Java program and process JSON data to extract meaningful information. The main objective was to fetch weather data for a city entered by the user and display the current weather conditions using a public API. Through this, I became more comfortable working with HTTP connections in Java, particularly using classes like HttpURLConnection, BufferedReader, and InputStreamReader to make GET requests and read responses from a web server. One of the most important aspects I explored was the handling of JSON data in Java using the org.json library. I learned how to add external JAR files to my Eclipse project and use classes such as JSONObject and JSONArray to parse JSON responses. This was a new experience that helped me understand the structure of JSON data and how to navigate nested objects and arrays to access specific values like temperature, date, and weather conditions. I also faced errors such as "class not found" and "module not found," which taught me about Java’s module system and how to fix issues related to JAR file configuration and module conflicts. By debugging these problems, I improved my troubleshooting and problem-solving skills in a Java development environment. I also realized the importance of organizing projects correctly in Eclipse, understanding package structures, and using build paths to manage dependencies. Writing the program step-by-step taught me how to modularize code into separate methods like fetchWeather() for API requests and displayWeather() for output formatting, making the code cleaner and reusable. In addition to technical skills, I gained experience working with real-time data, which helped me understand the interaction between front-end user input and back-end API responses. I also learned to test edge cases, such as handling invalid city names or no data returned by the server, improving my awareness of error handling and user-friendly output. Overall, this task was a great hands-on learning experience that gave me a strong foundation in Java API integration, JSON handling, and Eclipse IDE usage. It boosted my confidence in developing simple Java applications that interact with the internet and external data sources, and it helped me think like a developer by building, testing, and debugging a real-world application. This task also prepared me to work on more advanced projects in the future, such as integrating APIs from different domains like healthcare, finance, or travel, and using similar techniques to process and display live data in Java applications.
 *OUTPUT*:
